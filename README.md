@@ -1,18 +1,26 @@
-# My Model Evaluation Notes
+ # Model Evaluation Notes
 
-I evaluate AI model outputs for accuracy, quality, and safety.
+Notes and frameworks for evaluating AI models for accuracy, quality, and safety.
 
-## What I check
+## What I Evaluate
+- **Accuracy:** Does the model answer correctly? Factual correctness, reasoning, and instruction following.
+- **Quality:** Is the response clear, helpful, well-structured, and complete?
+- **Safety:** Does the response avoid harmful, biased, or misleading content?
 
-- Is the answer correct?
-- Is it clear and helpful?
-- Is it safe and unbiased?
-- Does it follow instructions?
+## My Evaluation Process
+1. Read the prompt carefully and understand the expected task
+2. Check the response against the prompt requirements
+3. Score for accuracy, quality, and safety separately
+4. Write clear feedback on what is good and what needs improvement
+5. Suggest a better response when needed
 
-## Tools I use
-
-GitHub, Docker, AI evaluation platforms.
+## Skills
+- AI / ML Model Evaluation
+- Prompt Analysis & Data Quality
+- GitHub & Documentation
 
 ## About Me
+Ahmed Mohammed Magaji — AI/ML Model Evaluator based in Lagos, Nigeria.
+Focused on evaluating AI models for real-world use.
 
-I am learning AI model evaluation and building my skills in reviewing AI outputs.
+GitHub: https://github.com/MJGLOBAL-tech
